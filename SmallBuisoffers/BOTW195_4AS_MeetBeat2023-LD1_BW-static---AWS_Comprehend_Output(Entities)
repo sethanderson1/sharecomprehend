@@ -1,0 +1,431 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9901259541511536,
+            "Type": "QUANTITY",
+            "Text": "$1,000",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7558709979057312,
+            "Type": "QUANTITY",
+            "Text": "three most recent payment processing statements",
+            "BeginOffset": 55,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.988471508026123,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 106,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.6390495300292969,
+            "Type": "ORGANIZATION",
+            "Text": "Merchant Services",
+            "BeginOffset": 121,
+            "EndOffset": 138
+        },
+        {
+            "Score": 0.9952501058578491,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 199,
+            "EndOffset": 205
+        },
+        {
+            "Score": 0.9988982677459717,
+            "Type": "QUANTITY",
+            "Text": "$1,000",
+            "BeginOffset": 222,
+            "EndOffset": 228
+        },
+        {
+            "Score": 0.5665296316146851,
+            "Type": "ORGANIZATION",
+            "Text": "Visa®",
+            "BeginOffset": 231,
+            "EndOffset": 236
+        },
+        {
+            "Score": 0.5454784035682678,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "card",
+            "BeginOffset": 242,
+            "EndOffset": 246
+        },
+        {
+            "Score": 0.9967058897018433,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West Merchant Services",
+            "BeginOffset": 431,
+            "EndOffset": 465
+        },
+        {
+            "Score": 0.989820122718811,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 542,
+            "EndOffset": 547
+        },
+        {
+            "Score": 0.997124969959259,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 550,
+            "EndOffset": 566
+        },
+        {
+            "Score": 0.926971971988678,
+            "Type": "ORGANIZATION",
+            "Text": "BMO Harris Bank N.A. Banking",
+            "BeginOffset": 591,
+            "EndOffset": 619
+        },
+        {
+            "Score": 0.9966427683830261,
+            "Type": "ORGANIZATION",
+            "Text": "BMO Harris Bank N.A.",
+            "BeginOffset": 686,
+            "EndOffset": 706
+        },
+        {
+            "Score": 0.8091752529144287,
+            "Type": "ORGANIZATION",
+            "Text": "FDIC",
+            "BeginOffset": 714,
+            "EndOffset": 718
+        },
+        {
+            "Score": 0.9936145544052124,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 783,
+            "EndOffset": 789
+        },
+        {
+            "Score": 0.9940769672393799,
+            "Type": "QUANTITY",
+            "Text": "$100,000",
+            "BeginOffset": 864,
+            "EndOffset": 872
+        },
+        {
+            "Score": 0.9985548257827759,
+            "Type": "QUANTITY",
+            "Text": "$2 million",
+            "BeginOffset": 877,
+            "EndOffset": 887
+        },
+        {
+            "Score": 0.6662834882736206,
+            "Type": "QUANTITY",
+            "Text": "three (3",
+            "BeginOffset": 1123,
+            "EndOffset": 1131
+        },
+        {
+            "Score": 0.9166008234024048,
+            "Type": "QUANTITY",
+            "Text": "less than four (4) months old",
+            "BeginOffset": 1179,
+            "EndOffset": 1208
+        },
+        {
+            "Score": 0.6829974055290222,
+            "Type": "QUANTITY",
+            "Text": "one (1)",
+            "BeginOffset": 1216,
+            "EndOffset": 1223
+        },
+        {
+            "Score": 0.9961552023887634,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 1296,
+            "EndOffset": 1302
+        },
+        {
+            "Score": 0.7589894533157349,
+            "Type": "QUANTITY",
+            "Text": "three (3)",
+            "BeginOffset": 1374,
+            "EndOffset": 1383
+        },
+        {
+            "Score": 0.9420555233955383,
+            "Type": "QUANTITY",
+            "Text": "60 days",
+            "BeginOffset": 1432,
+            "EndOffset": 1439
+        },
+        {
+            "Score": 0.8021119236946106,
+            "Type": "QUANTITY",
+            "Text": "three (3) merchant",
+            "BeginOffset": 1461,
+            "EndOffset": 1479
+        },
+        {
+            "Score": 0.9975146055221558,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 1492,
+            "EndOffset": 1498
+        },
+        {
+            "Score": 0.998680830001831,
+            "Type": "QUANTITY",
+            "Text": "$1,000",
+            "BeginOffset": 1512,
+            "EndOffset": 1518
+        },
+        {
+            "Score": 0.638037383556366,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Visa",
+            "BeginOffset": 1519,
+            "EndOffset": 1523
+        },
+        {
+            "Score": 0.9749330878257751,
+            "Type": "ORGANIZATION",
+            "Text": "United Parcel Service",
+            "BeginOffset": 1639,
+            "EndOffset": 1660
+        },
+        {
+            "Score": 0.967930018901825,
+            "Type": "ORGANIZATION",
+            "Text": "UPS",
+            "BeginOffset": 1662,
+            "EndOffset": 1665
+        },
+        {
+            "Score": 0.9885427951812744,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 1856,
+            "EndOffset": 1862
+        },
+        {
+            "Score": 0.9672045111656189,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 1908,
+            "EndOffset": 1911
+        },
+        {
+            "Score": 0.8238306641578674,
+            "Type": "OTHER",
+            "Text": "Form 1099",
+            "BeginOffset": 1915,
+            "EndOffset": 1924
+        },
+        {
+            "Score": 0.9994564652442932,
+            "Type": "DATE",
+            "Text": "April 1, 2023",
+            "BeginOffset": 2005,
+            "EndOffset": 2018
+        },
+        {
+            "Score": 0.9982014298439026,
+            "Type": "DATE",
+            "Text": "June 30, 2023",
+            "BeginOffset": 2023,
+            "EndOffset": 2036
+        },
+        {
+            "Score": 0.9980222582817078,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 2101,
+            "EndOffset": 2117
+        },
+        {
+            "Score": 0.9980902075767517,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 2142,
+            "EndOffset": 2148
+        },
+        {
+            "Score": 0.8457959890365601,
+            "Type": "QUANTITY",
+            "Text": "2M",
+            "BeginOffset": 2530,
+            "EndOffset": 2532
+        },
+        {
+            "Score": 0.9964663982391357,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon®",
+            "BeginOffset": 2571,
+            "EndOffset": 2578
+        },
+        {
+            "Score": 0.9987339377403259,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 2610,
+            "EndOffset": 2626
+        },
+        {
+            "Score": 0.9978596568107605,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 2738,
+            "EndOffset": 2744
+        },
+        {
+            "Score": 0.9983074069023132,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 2746,
+            "EndOffset": 2762
+        },
+        {
+            "Score": 0.9889490604400635,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 2812,
+            "EndOffset": 2818
+        },
+        {
+            "Score": 0.996709942817688,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 2927,
+            "EndOffset": 2933
+        },
+        {
+            "Score": 0.9975975155830383,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 2935,
+            "EndOffset": 2951
+        },
+        {
+            "Score": 0.9987530708312988,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 2974,
+            "EndOffset": 2980
+        },
+        {
+            "Score": 0.4082195460796356,
+            "Type": "OTHER",
+            "Text": "3A",
+            "BeginOffset": 3025,
+            "EndOffset": 3027
+        },
+        {
+            "Score": 0.9945658445358276,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 3100,
+            "EndOffset": 3116
+        },
+        {
+            "Score": 0.9914473295211792,
+            "Type": "DATE",
+            "Text": "7:00 p.m. PT",
+            "BeginOffset": 3156,
+            "EndOffset": 3168
+        },
+        {
+            "Score": 0.9988848567008972,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of the West",
+            "BeginOffset": 3189,
+            "EndOffset": 3205
+        },
+        {
+            "Score": 0.5967368483543396,
+            "Type": "DATE",
+            "Text": "after",
+            "BeginOffset": 3271,
+            "EndOffset": 3276
+        },
+        {
+            "Score": 0.8068146705627441,
+            "Type": "DATE",
+            "Text": "7:00 p.m. PT",
+            "BeginOffset": 3277,
+            "EndOffset": 3289
+        },
+        {
+            "Score": 0.8522263169288635,
+            "Type": "DATE",
+            "Text": "next business day",
+            "BeginOffset": 3309,
+            "EndOffset": 3326
+        },
+        {
+            "Score": 0.9834539890289307,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 3350,
+            "EndOffset": 3356
+        },
+        {
+            "Score": 0.9899137020111084,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 3365,
+            "EndOffset": 3371
+        },
+        {
+            "Score": 0.9962804913520813,
+            "Type": "ORGANIZATION",
+            "Text": "Elavon",
+            "BeginOffset": 3485,
+            "EndOffset": 3491
+        },
+        {
+            "Score": 0.5173857808113098,
+            "Type": "OTHER",
+            "Text": "2023",
+            "BeginOffset": 3567,
+            "EndOffset": 3571
+        },
+        {
+            "Score": 0.8199106454849243,
+            "Type": "ORGANIZATION",
+            "Text": "BMO Harris Bank N.A.",
+            "BeginOffset": 3572,
+            "EndOffset": 3592
+        },
+        {
+            "Score": 0.9821017980575562,
+            "Type": "ORGANIZATION",
+            "Text": "FDIC",
+            "BeginOffset": 3600,
+            "EndOffset": 3604
+        },
+        {
+            "Score": 0.4600256681442261,
+            "Type": "TITLE",
+            "Text": "Equal Housing Lender",
+            "BeginOffset": 3606,
+            "EndOffset": 3626
+        },
+        {
+            "Score": 0.9955930113792419,
+            "Type": "OTHER",
+            "Text": "#810-01807-BW",
+            "BeginOffset": 3652,
+            "EndOffset": 3665
+        },
+        {
+            "Score": 0.9917830228805542,
+            "Type": "OTHER",
+            "Text": "03/2023",
+            "BeginOffset": 3667,
+            "EndOffset": 3674
+        }
+    ]
+}
