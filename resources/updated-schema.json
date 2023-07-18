@@ -1,0 +1,113 @@
+{
+    "bucket": "comprehendtests925",
+    "file": "docsource/Home Equity Energy Efficiency Flyer.pdf",
+    "tags": [
+        {
+            "tag": "Discount Offer",
+            "detail": "GET 0.125% OFF A HELOC",
+            "description": "Receive a discount of 0.125% on the standard interest rate for a Home Equity Line of Credit (HELOC).",
+            "conditions": "Finance at least $5,000 in new solar energy equipment or have existing solar energy equipment installed."
+        },
+        {
+            "tag": "Green Financing",
+            "detail": "GO GREEN",
+            "description": "Promotes environmentally friendly initiatives related to solar energy.",
+            "benefits": "Lower interest rate on the HELOC and potential cost savings."
+        },
+        {
+            "tag": "Savings Opportunity",
+            "detail": "Now is the time to save on a Home Equity Line of Credit",
+            "description": "Urges individuals to take advantage of cost-saving opportunities for a HELOC.",
+            "benefits": "Reduced interest rates, no closing costs or origination fees, and flexible credit limits."
+        },
+        {
+            "tag": "Automatic Payments Discount",
+            "detail": "An additional 0.125% off with automatic payments",
+            "description": "Offers an extra discount on the interest rate for customers who set up automatic monthly payments.",
+            "conditions": "Requires a qualifying Bank of the West checking or savings account."
+        },
+        {
+            "tag": "Customized Rate Quote",
+            "detail": "CALL FOR A CUSTOMIZED RATE QUOTE TODAY 1-855-296-5848 (TTY 1-800-659-5495) or visit BankoftheWest.com/Solar",
+            "description": "Encourages potential customers to contact the bank for personalized rate quotes.",
+            "contact_information": "Phone number provided for inquiries."
+        },
+        {
+            "tag": "Banking Institutions",
+            "detail": "Bank of the West, BMO Harris Bank N.A.",
+            "description": "Mentions the banking institutions involved in offering the HELOC.",
+            "details": "Trade names, approval process, and branding requirements."
+        },
+        {
+            "tag": "Terms and Fees",
+            "detail": "Home Equity Lines of Credit (HELOCs)",
+            "description": "Provides information about the product's terms and fees.",
+            "details": "Credit qualifications, collateral valuation, fees, and restrictions."
+        },
+        {
+            "tag": "Property Insurance",
+            "detail": "Evidence of adequate property insurance required",
+            "description": "Highlights the requirement for adequate property insurance.",
+            "conditions": "Proof of insurance coverage is necessary to qualify for the HELOC."
+        },
+        {
+            "tag": "HELOC Draw and Repayment Periods",
+            "detail": "HELOC Draw and Repayment Periods",
+            "description": "Explains the structure of the HELOC with variable rate draw and fixed-rate repayment periods.",
+            "details": "Monthly interest-only payments during the draw period, followed by a fully-amortizing repayment period."
+        },
+        {
+            "tag": "APR and Fees",
+            "detail": "APR and Fees",
+            "description": "Provides information about the APR, fees, and state law limitations.",
+            "details": "APR based on the Prime Rate, margins, state law limitations, annual fees, and potential additional fees."
+        }
+    ],
+    "document-lines": [
+        "GET 0.125%",
+        "OFF A HELOC",
+        "WHEN YOU",
+        "GO GREEN",
+        "Now is the time to save on a Home Equity Line of Credit",
+        "Get 0.125% off our standard Home Equity Line of Credit (HELOC)¹ interest rate when you finance at least $5,000",
+        "in new solar energy equipment or have existing solar energy equipment installed, plus:",
+        "No closing costs or origination fees",
+        "Lines of credit up to $2,000,000",
+        "An additional 0.125% off with automatic payments 3 from a qualifying Bank of the West account",
+        "CALL FOR A CUSTOMIZED RATE QUOTE TODAY",
+        "1-855-296-5848 (TTY 1-800-659-5495) or visit BankoftheWest.com/Solar",
+        "BANK THE OF WEST",
+        "®",
+        "WE'VE JOINED BMO",
+        "Bank of the West is a trade name used by BMO Harris Bank N.A. Banking products and services are subject to approval and are provided by BMO Harris Bank N.A. To qualify, all",
+        "accounts must be branded Bank of the West. BMO branded products and services do not qualify and are not eligible for the offers contained herein.",
+        "Terms and Fees: Home Equity Lines of Credit (HELOCs) are subject to credit qualifications and collateral valuation. Fees, conditions and restrictions apply. Product details can be found",
+        "in our Important Terms Brochure; ask for a copy. Rate and offer subject to change without notice. Evidence of adequate property insurance required. Combined total discounts may not",
+        "exceed 1.25% for the draw period or lower the rate less than the floor of 3.00%.",
+        "1 The HELOC Energy Efficiency Discount is subject to change at any time. Discount is 0.125% off standard rate sheet pricing for the draw period. Applicants must provide a quote for the",
+        "purchase and installation on the subject property of least $5,000 of new solar energy equipment or have previously-installed existing solar energy equipment on the subject property",
+        "in order to qualify for this discount. For new solar systems, applicants must provide - no less than 10 days prior to account opening - a written contract satisfactory to Bank of the",
+        "West from a licensed contractor for the purchase and installation of an eligible solar energy product (visit bankofthewest.com/solan to view our requirements). The written contract",
+        "must have an installation date no later than 90 days post account opening. Written contract must clearly identify product(s) being installed and must be signed by both the installer",
+        "and the customer. For existing solar systems, applicants must provide - no less than 10 days prior to account opening written proof of existing eligible solar systems that include the",
+        "subject property address and customer name (visit bankofthewest.com/solar for a list of acceptable documentation). Bank of the West reserves the right to verify, as applicable, the",
+        "written contract, the validity and existence of the solar energy improvement, and may request written certification of the applicant's intentions.",
+        "2",
+        "All HELOCs feature a 10-year variable rate draw period requiring a monthly interest-only payment subject to a $100 minimum. Annual Percentage Rate (APR) during the draw period",
+        "may change as often as monthly. The draw period is followed by a fixed-rate fully-amortizing repayment period of 120, 180 or 240 months, depending on the balance at the end of the",
+        "draw period. APR during the repayment period will be fixed, based on the Prime Rate in effect at the end of the draw period, plus a margin and other factors. The APR will not exceed",
+        "18.00% (13.00% APR in Oklahoma) and will not go below 3.00% regardless of your qualifying margin or applicable discounts. Fees: an annual fee up to $75 applies subject to state law",
+        "limitations; a fee of $100 may apply each time a Fixed Rate Loan Option is elected or reversed. Ask a Bank of the West representative for details. The APR for a HELOC during the draw",
+        "period is variable based on the Prime Rate as published in The Wall Street Journal, plus a margin. As of May 4, 2023, the Prime Rate is 8.25% As of May 4, 2023, margins range from",
+        "-0,985% to +5.575% with corresponding APRs ranging from 7.265% to 13.825% for lines of credit between $15,000 and $2,000,000 and are subject to change at any time. APR will",
+        "depend on factors including property value, location, and occupancy status, creditworthiness, existing debt against the property, approved line of credit amount, and your account",
+        "relationships with Bank of the West.",
+        "3 Automatic payment discount of 0.125% off the standard rate requires applicants to establish automatic monthly payments from a new or existing Bank of the West checking or",
+        "savings account. The discount may be reversed and your rate and payments may increase if automatic payments are discontinued for any reason. All terms and conditions applicable",
+        "to the checking or savings account apply, including fees, and minimum opening deposits. Additional benefits may be available for eligible customers of Bank of the West (ask US for",
+        "details.)",
+        "© 2023 BMO Harris Bank N.A. Member FDIC. NMLS #401052 Equal Housing Lender.",
+        "Form # MOD-810-01870 (0523)"
+    ]
+}
+

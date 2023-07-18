@@ -1,0 +1,64 @@
+{
+  "tags": [
+          {
+            "tag": "Discount Offer",
+            "detail": "GET 0.125% OFF A HELOC",
+            "description": "Receive a discount of 0.125% on the standard interest rate for a Home Equity Line of Credit (HELOC).",
+            "conditions": "Finance at least $5,000 in new solar energy equipment or have existing solar energy equipment installed."
+          },
+          {
+            "tag": "Green Financing",
+            "detail": "GO GREEN",
+            "description": "Promotes environmentally friendly initiatives related to solar energy.",
+            "benefits": "Lower interest rate on the HELOC and potential cost savings."
+          },
+          {
+            "tag": "Savings Opportunity",
+            "detail": "Now is the time to save on a Home Equity Line of Credit",
+            "description": "Urges individuals to take advantage of cost-saving opportunities for a HELOC.",
+            "benefits": "Reduced interest rates, no closing costs or origination fees, and flexible credit limits."
+          },
+          {
+            "tag": "Automatic Payments Discount",
+            "detail": "An additional 0.125% off with automatic payments",
+            "description": "Offers an extra discount on the interest rate for customers who set up automatic monthly payments.",
+            "conditions": "Requires a qualifying Bank of the West checking or savings account."
+          },
+          {
+            "tag": "Customized Rate Quote",
+            "detail": "CALL FOR A CUSTOMIZED RATE QUOTE TODAY 1-855-296-5848 (TTY 1-800-659-5495) or visit BankoftheWest.com/Solar",
+            "description": "Encourages potential customers to contact the bank for personalized rate quotes.",
+            "contact_information": "Phone number provided for inquiries."
+          },
+          {
+            "tag": "Banking Institutions",
+            "detail": "Bank of the West, BMO Harris Bank N.A.",
+            "description": "Mentions the banking institutions involved in offering the HELOC.",
+            "details": "Trade names, approval process, and branding requirements."
+          },
+          {
+            "tag": "Terms and Fees",
+            "detail": "Home Equity Lines of Credit (HELOCs)",
+            "description": "Provides information about the product's terms and fees.",
+            "details": "Credit qualifications, collateral valuation, fees, and restrictions."
+          },
+          {
+            "tag": "Property Insurance",
+            "detail": "Evidence of adequate property insurance required",
+            "description": "Highlights the requirement for adequate property insurance.",
+            "conditions": "Proof of insurance coverage is necessary to qualify for the HELOC."
+          },
+          {
+            "tag": "HELOC Draw and Repayment Periods",
+            "detail": "HELOC Draw and Repayment Periods",
+            "description": "Explains the structure of the HELOC with variable rate draw and fixed-rate repayment periods.",
+            "details": "Monthly interest-only payments during the draw period, followed by a fully-amortizing repayment period."
+          },
+          {
+            "tag": "APR and Fees",
+            "detail": "APR and Fees",
+            "description": "Provides information about the APR, fees, and state law limitations.",
+            "details": "APR based on the Prime Rate, margins, state law limitations, annual fees, and potential additional fees."
+          }
+        ]
+  }
